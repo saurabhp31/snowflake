@@ -1,4 +1,4 @@
--- Assigment 2
+-- Assignment 2
 
 -- In this project, we will learn how to use snowflake as a query engine. We store our data in aws s3 and we will learn various methods to query it from snowflake.
 
@@ -178,6 +178,8 @@ from
 --  If there is policy update for role we need to re configure the integration
 --  Compute cost is more as it is scanning more partition
 --  All Snowflake features are not available. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
