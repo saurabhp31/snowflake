@@ -1,0 +1,101 @@
+entity_id,entity_name,entity_type,risk_category,listed_date,source
+dff91bfd-3855-4934-871f-dae7a9010d1a,"Carr, Kline and Berg",individual,low,2023-11-13,government
+0bdffae0-dfcc-42d6-925d-023ef959f712,Williamson-Robinson,individual,high,2022-04-30,international organization
+5f8e8020-6585-42e5-9328-6930012eb05a,"Hill, Bell and Warren",individual,high,2022-03-09,financial institution
+1cafac96-0d0f-427b-876f-1db44aad0ce3,Koch-Miller,individual,medium,2022-11-01,financial institution
+6fb9eb5b-ddfc-4cf7-9131-64d50ae3c206,Brown and Sons,organization,high,2024-04-21,international organization
+c4a981d0-8178-4871-bb3c-d399cea49476,Graham-Shelton,individual,low,2021-05-07,government
+e1bd05b4-a3c7-4732-8b76-aee3cbc25b9d,Hernandez LLC,organization,high,2023-09-10,government
+2331ecf7-668a-4f77-a228-3ad99507d27e,Thomas Group,organization,low,2022-07-15,financial institution
+04dd63b2-b5a5-4f68-a234-17baec6248cc,Solomon PLC,organization,high,2021-11-03,financial institution
+bdb4e610-ba78-4bb4-9edc-ce280d3ffb46,"Browning, Little and Barnes",organization,medium,2023-07-10,financial institution
+dca11b06-7a29-4545-b8a4-7229971da367,Lewis Group,organization,high,2021-12-03,international organization
+c845fde6-00bc-4b7d-bc75-7c0e9c787d33,Cohen Inc,individual,medium,2020-09-09,international organization
+cfa5debb-f7d5-48d0-b2fd-0b5e5218624f,Campbell-Parker,individual,low,2020-08-01,international organization
+01244fef-d890-4525-abe3-272a9f2d536d,Hart Inc,organization,high,2021-05-27,financial institution
+078cfc9e-d99f-4220-826b-61bcb16d3d45,"Brown, Sweeney and Cox",individual,high,2020-08-16,financial institution
+22ef7fa8-df9b-4773-8605-fbfe70af76d2,"Jackson, Rogers and Patel",individual,low,2021-08-09,government
+5d38be42-8f30-4a95-a313-ff194c38d816,Mejia Group,individual,high,2022-02-15,financial institution
+98aa1651-dc49-423a-87d6-0754b0aea625,"Green, Wright and Schroeder",organization,low,2020-05-21,government
+2d933dba-fc39-47c6-ac37-8c169c0de2b2,Mcpherson LLC,individual,low,2021-12-28,government
+51c76ecd-3f6b-47f2-86a2-8fe5e343bd5a,Smith PLC,organization,medium,2024-02-09,government
+014c1c0a-67df-4f83-be50-5fcc66d8456a,Harris Ltd,organization,medium,2021-04-09,international organization
+52c86720-241b-4dda-8075-8445456bca0a,Anderson-Owen,individual,high,2023-11-18,financial institution
+446c39e6-dab0-4974-9d90-819873c1dfca,"Davis, Wolf and Porter",organization,medium,2022-10-25,government
+ee4eeea0-a672-4674-9543-c44b6d9549e5,Reed-Molina,individual,high,2020-05-04,government
+90972d1e-9dc3-48f1-9056-9abc9f97ec08,"Clark, Werner and Wilson",individual,high,2021-08-05,government
+540eeef8-2b58-4de8-82d6-ac9d3e0ce014,Ramos-Herrera,individual,medium,2020-04-14,financial institution
+9b375be3-5a2d-4f10-8338-ef73c987cd44,"Allen, Mclean and Ortiz",organization,low,2021-02-06,government
+ada52e7f-97fb-49c7-b95a-d00d90670f0d,Greene-Herman,organization,high,2020-03-02,financial institution
+9b214e2b-2711-4014-8cd0-7ee5c8f1c7c2,Myers-Harper,individual,high,2021-08-30,financial institution
+657ff791-a9a5-448f-80f5-2336c7d48b4d,Williamson LLC,organization,low,2022-02-21,international organization
+a4f55f6c-3159-441f-b4a1-a1f6e6786f90,"Short, Newman and Sheppard",organization,high,2024-01-23,government
+8e6a0820-c302-4d53-8ab8-47fefe6e784a,Mahoney-Perry,individual,high,2022-04-10,international organization
+a0b46430-430f-41f2-9ebd-34436cebe49b,Lynch Ltd,organization,low,2021-06-16,government
+b366de6d-91f7-46c9-9574-85e077cd3462,Reynolds-Johnson,organization,medium,2020-02-10,government
+e2103cdb-db43-44ce-ae3f-2992d229877f,"Johnson, Jenkins and Perez",organization,low,2024-07-04,financial institution
+a1a786b4-7192-4ee5-b93b-5539fcf96ea9,Howe-Perez,organization,low,2021-09-26,government
+c8dc4534-f4e3-4aed-88b0-560f29d6e894,Ramirez Inc,individual,medium,2023-08-11,financial institution
+dadaa9aa-aecf-49cf-9c24-5a6191f88bf7,Jones Inc,organization,high,2020-04-15,government
+c040fe27-fb07-4185-96bb-2af6df8ce0e1,Richards Ltd,individual,medium,2024-07-02,government
+5f8dfb3c-8dfb-49ed-843d-826c3f981191,Hunter LLC,organization,medium,2020-10-26,international organization
+e81be257-8f6b-4de9-8327-d99f8635ff6d,Hess Group,individual,low,2024-01-10,government
+861211f4-605c-4180-8648-6bfc1aec5cac,Sanders PLC,organization,high,2024-05-21,international organization
+ff2cbb9e-26a9-43d5-b1b9-efb2bc6ab580,Rogers-Burton,organization,high,2021-12-05,financial institution
+d5f51721-4c3c-4166-acc5-2ba3a75bcf12,"Kennedy, Conley and Mcintosh",individual,medium,2020-06-26,international organization
+c54dda13-4b8e-487c-9035-f5a173b603c4,Bauer PLC,organization,medium,2021-04-21,government
+c246ac76-a276-4ded-bd07-fca086def86b,Gibson PLC,organization,high,2020-05-17,government
+8f6d6b3e-e28c-4fea-85a2-1ad63f0a942e,Smith-Watkins,individual,high,2022-11-08,financial institution
+ba82db57-e21f-40a7-b3ae-3ef518b633b4,"Lang, Case and Hampton",organization,high,2022-12-14,international organization
+71db6723-6077-4c89-91ec-5c53521ff76a,"Hanson, Campbell and Nichols",organization,medium,2020-07-16,government
+c0b03f32-1cb4-4427-8c64-3e7f9aa5b588,Thompson LLC,organization,low,2024-07-08,international organization
+df470de7-525f-4b49-9648-6249d019a0f7,White-Hood,individual,high,2022-08-28,international organization
+e3ada957-2388-42bb-8d78-58e591fe536c,Gonzalez LLC,organization,medium,2022-07-08,financial institution
+7d8e4905-4946-4b39-acbc-c7c7c679f82a,Holloway PLC,individual,medium,2021-01-31,international organization
+45ac0b5e-8195-49cb-857f-dd8b08deeaa6,Chen-Richards,individual,low,2021-11-17,government
+0f0d350d-fdae-4feb-8353-e349bfe0c178,"Rogers, Pearson and Hart",organization,low,2021-05-04,international organization
+393555a0-c7ba-4b75-a160-d836d68275a9,"Neal, Anderson and Benson",organization,low,2020-03-17,international organization
+84dac5b4-d7ab-44dc-9c6f-14c0349bc435,Baker-Campbell,organization,high,2021-07-15,financial institution
+3754ec1b-80ee-490f-8d98-cfbee776e49f,Wright-Villanueva,organization,high,2020-06-11,government
+b13ca9d7-2ddf-4277-8514-1d8843b5ac07,Schroeder LLC,individual,low,2020-03-12,international organization
+59fc11ab-eeb8-4d6e-86a6-d6b648ef808c,Young and Sons,individual,low,2023-11-03,government
+1d8a939a-ce73-4c09-913e-dd69937e63c0,Ramirez Inc,individual,low,2023-08-15,international organization
+523400e6-9898-4f09-9fb8-fe3f271c9bf5,Barker Group,organization,medium,2023-10-28,international organization
+ef65a1fe-0731-4ed2-83c9-f05cf6a18e63,"Payne, Blackburn and Valdez",organization,low,2021-08-06,financial institution
+9993abee-bd60-4706-b522-672df29cdbb7,Lopez Ltd,individual,low,2020-03-12,government
+e06ab197-f2c9-4b8f-a82a-fa864fe326a0,"Wilson, King and Waters",organization,medium,2020-11-06,international organization
+79fd17c8-369c-4663-a0de-8adca006f409,"Brown, Gutierrez and Zimmerman",organization,high,2020-10-22,international organization
+037dc8f6-e2b6-4baa-856a-358b8c752d8b,Rivera and Sons,individual,medium,2024-03-20,international organization
+1d7907f3-3817-44bc-a34b-1d2465bf9567,"Howard, Brown and Brown",organization,medium,2024-06-22,government
+4de05f16-49d4-495d-8a59-16442e35fe84,"Hanson, Campbell and Nichols",individual,high,2023-09-14,financial institution
+10968463-9df2-4e43-9995-44f76a7af75e,Kelly PLC,organization,medium,2020-06-29,government
+5ffe0f44-d8d9-4794-beed-939a1124a408,"Berry, Acosta and Griffin",individual,low,2024-03-18,government
+29bf2b31-1459-49c8-9542-21632f08008e,"Rogers, Moreno and Scott",individual,low,2022-09-16,financial institution
+7ff836e2-c288-4682-a5e9-acc0f83f518c,Larsen-Lopez,organization,low,2020-12-01,government
+83ea0f01-7c0b-44fa-af73-dab538e940b7,"Harris, Huff and Knight",individual,medium,2022-11-05,international organization
+62d0f964-66a9-4c56-8588-bc00bcbcd7e8,Smith and Sons,organization,high,2023-08-08,financial institution
+58d7ac51-9651-424b-80cc-caaa84172cbe,Baker-Hall,organization,low,2022-09-12,government
+c1179ee0-862c-4053-806b-171136738bf0,Mendez-Romero,organization,high,2023-01-10,government
+a8cd7cdf-7bf5-418a-8f2e-4ae796ea37e3,Miller-Huffman,individual,medium,2020-03-21,financial institution
+ed285f9b-0c34-4e2e-8ef7-85f2e26bb93e,Griffin and Sons,individual,medium,2021-12-08,international organization
+ba9fe65e-e8f6-407d-a543-7f50b7f4a494,"Warner, Frey and Brown",individual,high,2021-04-29,government
+6a3d504c-0c6d-4d6a-90a1-512ed7358621,Miller-Huffman,individual,medium,2020-02-23,financial institution
+81859809-c9b2-4757-bc17-5ebfeaa4f995,Day PLC,individual,medium,2023-09-22,financial institution
+5454f365-2c52-4734-8146-63fe741fbed2,Simmons Inc,organization,high,2021-11-18,international organization
+19d8c58a-f049-4c38-acc2-4ca86fe51580,Bridges-Winters,individual,high,2023-07-27,international organization
+aab66c91-ba7a-49c5-a186-a30934cb5c98,Gonzalez LLC,organization,low,2022-10-24,international organization
+8f2b548f-bac9-4e05-8193-49ed65ed3c14,Yang PLC,organization,low,2021-01-14,government
+6bfa9040-dc58-4846-bf41-3f984a6c48a6,"Mclaughlin, Wright and Lewis",organization,low,2022-06-19,financial institution
+eba6fffb-1ceb-465a-a358-8b259f6627d7,"Perez, Becker and Michael",organization,low,2022-06-23,international organization
+3def8ea8-054f-4308-9ce5-786c534a29ab,"Reed, Jensen and Everett",organization,high,2023-05-27,international organization
+3903c76e-cff1-4aab-8401-555b47520fee,"Franklin, Brown and Hill",organization,low,2023-07-31,government
+34423ec8-8c13-47ca-92f1-ec6802ef8987,"Hill, Maldonado and White",individual,medium,2023-06-23,government
+682ed452-46a3-41c2-9ff8-bbc354440fda,Dixon-Hayes,individual,low,2020-11-14,international organization
+c4957786-90f5-4618-9b7d-54961b97e9d0,"Morrison, Fischer and Washington",organization,high,2024-04-18,government
+c010a908-b9a4-46ed-ad12-2a7346be15dd,Obrien-Castaneda,individual,medium,2020-10-17,international organization
+9b1801a1-a9fe-4614-8ebd-34f15ec4b356,Michael LLC,individual,medium,2020-06-21,government
+35add472-5d81-4352-8c83-edb10b29a935,Blake-Taylor,organization,medium,2024-04-20,international organization
+f2115df2-d351-4f08-9560-3254758a1b51,Clark-Gomez,individual,medium,2023-12-19,international organization
+1821a068-16c8-4da1-8767-31bc3458335e,Butler-Moore,individual,low,2021-11-21,government
+7a282e50-b0fd-4740-9c6a-136f8e269b71,Vasquez LLC,organization,low,2022-10-12,government
+e8d21b9c-6a6e-4f74-9d94-902942c2a96e,Nunez-Stewart,individual,low,2022-02-09,government
