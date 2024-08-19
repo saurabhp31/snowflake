@@ -1,0 +1,14 @@
+
+version: 2
+
+sources:
+    - name: globalbank
+      database: gbload_db
+      schema: gbload
+      tables:
+          - name: accounts
+          - name: customers
+          - name: credit_data
+          - name: transactions
+          - name: watchlist
+
